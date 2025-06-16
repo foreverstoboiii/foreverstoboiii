@@ -10,7 +10,7 @@ Sometimes I code. Sometimes I vanish. But I’m always observing.
 
 <!-- force refresh -->
 
-
+<!-- force refresh -->
 
  — and yet, here I am... typing, testing, thinking. Why?
 
