@@ -34,7 +34,8 @@ Does it make it less real?
 
 
 
-### 🐍 My Contribution Snake
+
+### 🐍 Contribution Snake
 
 ![GitHub Snake dark](https://github.com/foreverstoboiii/foreverstoboiii/blob/output/github-snake-dark.svg)
 
