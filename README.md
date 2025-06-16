@@ -37,6 +37,7 @@ Does it make it less real?
 
 ### 🐍 Contribution Snake
 
-![GitHub Snake dark](https://github.com/foreverstoboiii/foreverstoboiii/blob/output/github-snake-dark.svg)
+![GitHub Snake dark](https://raw.githubusercontent.com/foreverstoboiii/foreverstoboiii/output/github-snake-dark.svg)
+
 
 
