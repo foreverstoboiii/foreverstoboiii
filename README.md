@@ -1,7 +1,7 @@
 ### Who am I, if I still don’t know what I’m trying to become?
 
 I build, break, and rebuild — not for show, but to understand.  
-No promises of genius. Just consistent doubt and curiosity.  
+
 Sometimes I code. Sometimes I vanish. But I’m always observing.
 
 <p align="center">
@@ -9,18 +9,14 @@ Sometimes I code. Sometimes I vanish. But I’m always observing.
 </p>
 
 
-
-
-
  — and yet, here I am... typing, testing, thinking. Why?
 
 What does it mean to create something no one sees?  
 Does it make it less real?
 
-I don’t need applause.  
-I need silence loud enough to hear what’s next.
 
-### 🛠 Инструменты
+
+### 🛠 Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&theme=dark" />
