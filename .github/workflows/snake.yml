@@ -3,12 +3,15 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"  # каждый день в 00:00
-  workflow_dispatch:     # позволяет вручную запускать
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate GitHub Snake SVG
         uses: Platane/snk@v3
         with:
@@ -16,10 +19,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          repo: foreverstoboiii/foreverstoboiii
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
