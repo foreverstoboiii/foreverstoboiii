@@ -31,7 +31,6 @@ Does it make it less real?
 <!--
 **foreverstoboiii/foreverstoboiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-> 🧷 Today I realized: *"We spend more time editing ourselves than being ourselves."*
 
 ┌─[foreverstoboiii@echo]
 └──╼ the world doesn't care
