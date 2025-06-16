@@ -19,11 +19,7 @@ I need silence loud enough to hear what’s next.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&theme=dark" />
 </p>
-### 📊 GitHub статистика
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=foreverstoboiii&show_icons=true&hide_title=true&theme=github_dark" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foreverstoboiii&layout=compact&theme=github_dark" />
