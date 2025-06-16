@@ -4,7 +4,10 @@ I build, break, and rebuild — not for show, but to understand.
 No promises of genius. Just consistent doubt and curiosity.  
 Sometimes I code. Sometimes I vanish. But I’m always observing.
 
-![quote](https://img.shields.io/badge/the%20whole%20world%20doesn't%20care_sun's%20still%20gonna%20rise-1e1e1e?style=for-the-badge&label=&color=004d4d)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=004d4d&center=true&vCenter=true&width=900&lines=the+whole+world+doesn't+care_sun's+still+gonna+rise;When+was+the+last+time+you+really+heard+yourself%3F;And+how+long+did+your+%E2%80%9Cforever%E2%80%9D+last%3F" />
+</p>
+
 
 
 
