@@ -31,6 +31,6 @@ Does it make it less real?
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foreverstoboiii&layout=compact&theme=github_dark" />
 </p>
 
-### 🐍 Contribution Snake
+### Contribution 
 <img src="https://foreverstoboiii.github.io/foreverstoboiii/github-snake-dark.svg?palette=github-dark" alt="github contribution snake dark" />
 
