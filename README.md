@@ -38,8 +38,6 @@ Does it make it less real?
 
 ### 🐍 Contribution Snake
 
-![GitHub Snake dark](https://raw.githubusercontent.com/foreverstoboiii/foreverstoboiii/output/github-snake-dark.svg)
-
-<img src="https://raw.githubusercontent.com/foreverstoboiii/foreverstoboiii/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/foreverstoboiii/foreverstoboiii/output/github-snake.svg" />
 
 
