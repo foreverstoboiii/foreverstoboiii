@@ -32,10 +32,5 @@ Does it make it less real?
 </p>
 
 ### 🐍 Contribution Snake
+<img src="https://foreverstoboiii.github.io/foreverstoboiii/github-snake-dark.svg?palette=github-dark" alt="github contribution snake dark" />
 
-<img src="https://foreverstoboiii.github.io/foreverstoboiii/github-snake.svg" />
-
-
-
-
-<img src="https://foreverstoboiii.github.io/foreverstoboiii/github-snake.svg" alt="snake animation" />
