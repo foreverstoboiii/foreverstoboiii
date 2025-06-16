@@ -4,7 +4,7 @@ I build, break, and rebuild — not for show, but to understand.
 No promises of genius. Just consistent doubt and curiosity.  
 Sometimes I code. Sometimes I vanish. But I’m always observing.
 
-> <p align="center"><mark><b>The whole world doesn't care_sun's still gonna rise.</b></mark></p>
+<p align="center"><mark><b>The whole world doesn't care_sun's still gonna rise.</b></mark></p>
 
  — and yet, here I am... typing, testing, thinking. Why?
 
