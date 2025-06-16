@@ -38,6 +38,7 @@ Does it make it less real?
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/foreverstoboiii/foreverstoboiii/output/github-snake.svg" />
+<img src="https://foreverstoboiii.github.io/foreverstoboiii/github-snake.svg" />
+
 
 
