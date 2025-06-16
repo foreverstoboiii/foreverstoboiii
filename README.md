@@ -21,11 +21,11 @@ I need silence loud enough to hear what’s next.
 ### 📊 GitHub статистика
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&hide_title=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=foreverstoboiii&show_icons=true&hide_title=true&theme=github_dark" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foreverstoboiii&layout=compact&theme=github_dark" />
 </p>
 <!--
 **foreverstoboiii/foreverstoboiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
