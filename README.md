@@ -31,4 +31,11 @@ Does it make it less real?
 <!--
 **foreverstoboiii/foreverstoboiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+> 🧷 Today I realized: *"We spend more time editing ourselves than being ourselves."*
+
+┌─[foreverstoboiii@echo]
+└──╼ the world doesn't care
+
+![Quote Banner](https://readme-quote-generator.vercel.app/api/quote?quote=The%20world%20isn't%20watching.%20Be%20free.&theme=dark&font=monospace)
+
 
