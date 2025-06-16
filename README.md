@@ -4,7 +4,8 @@ I build, break, and rebuild — not for show, but to understand.
 No promises of genius. Just consistent doubt and curiosity.  
 Sometimes I code. Sometimes I vanish. But I’m always observing.
 
-![quote](https://img.shields.io/badge/THE%20WHOLE%20WORLD%20DOESN'T%20CARE-1e1e1e?style=for-the-badge&label=&color=004d4d)
+![quote](https://img.shields.io/badge/the%20whole%20world%20doesn't%20care_sun's%20still%20gonna%20rise-1e1e1e?style=for-the-badge&label=&color=004d4d)
+
 
 
  — and yet, here I am... typing, testing, thinking. Why?
