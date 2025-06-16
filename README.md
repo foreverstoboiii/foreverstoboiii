@@ -5,8 +5,9 @@ I build, break, and rebuild — not for show, but to understand.
 Sometimes I code. Sometimes I vanish. But I’m always observing.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=ffffff&background=004d4d&center=true&vCenter=true&width=900&lines=the+whole+world+doesn't+care_sun's+still+gonna+rise;When+was+the+last+time+you+really+heard+yourself%3F;And+how+long+did+your+%E2%80%9Cforever%E2%80%9D+last%3F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=ffffff&background=006666&center=true&vCenter=true&width=900&lines=the+whole+world+doesn't+care_sun's+still+gonna+rise;When+was+the+last+time+you+really+heard+yourself%3F;And+how+long+did+your+%E2%80%9Cforever%E2%80%9D+last%3F" />
 </p>
+
 
 
  — and yet, here I am... typing, testing, thinking. Why?
