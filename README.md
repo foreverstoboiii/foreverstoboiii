@@ -27,9 +27,9 @@ Does it make it less real?
 </p>
 
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foreverstoboiii&layout=compact&theme=github_dark" />
-</p>
+</p> -->
 
 ### Contribution 
 <img src="https://foreverstoboiii.github.io/foreverstoboiii/github-snake-dark.svg?palette=github-dark" alt="github contribution snake dark" />
