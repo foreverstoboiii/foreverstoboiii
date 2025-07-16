@@ -23,7 +23,8 @@ Does it make it less real?
 ### 🛠 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,github,windowss&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,nodejs,github,windows&theme=dark" />
+
 </p>
 
 
