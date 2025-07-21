@@ -38,16 +38,3 @@ Does it make it less real?
 
 ---
 
-<p align="center" style="font-style:italic; font-size: 15px;">
-  <span style="opacity: 0.5;">if I disappear again,</span><br />
-  <span style="opacity: 0.75;">look for the static —</span><br />
-  <a href="https://t.me/forever_stoboiii" target="_blank" style="text-decoration:none; color:#00f0ff; font-weight:500;">
-    🛰️ @forever_stoboiii
-  </a>
-  <span style="opacity: 0.4;">|</span>
-  <a href="https://www.instagram.com/forever_stoboiii?igsh=MWVidzM4YTZsaTJrcg==" target="_blank" style="text-decoration:none; color:#ff66cc; font-weight:500;">
-    📷 @forever_stoboiii
-  </a>
-  <br />
-  <span style="opacity: 0.5;">...but don’t wait too long.</span>
-</p>
