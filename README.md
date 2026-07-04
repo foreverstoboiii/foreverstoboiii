@@ -1,19 +1,21 @@
-### Deconstructing systems.
+### deconstructing systems.
 
-Observation of logic. 
-Code. Process. Absence. 
+observation of logic. code. process. absence. 
+creation without external validation. function defines reality.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&color=ffffff&background=006666&center=true&vCenter=true&width=900&lines=System+noise;Cyclicity;What+remains+after" />
-</p>
+---
 
-Creation without external validation. 
-Function defines reality.
-
-### 🛠 Stack
+### // metrics
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,github,windows,nodejs,express&theme=dark" />
+  <img src="https://github-readme-stats.shion.dev/api?username=foreverstoboiii&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_rank=true" alt="stats" />
 </p>
 
-### Activity
-<img src="https://foreverstoboiii.github.io/foreverstoboiii/github-snake-dark.svg?palette=github-dark" alt="github snake" />
+### // stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,python,npm,git,github,githubactions,vscode,bash,markdown,windows&theme=dark&perline=7" />
+</p>
+
+### // cyclicity
+<p align="left">
+  <img src="https://foreverstoboiii.github.io/foreverstoboiii/github-snake-dark.svg?palette=github-dark" alt="github snake" />
+</p>
